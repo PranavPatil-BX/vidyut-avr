@@ -15,7 +15,7 @@
           "version": "1.0.0",
           "category": "Contributed",
           "url": "https://github.com/PranavPatil-BX/vidyut-avr/raw/main/vidyut-1.0.0.zip",
-          "archiveFileName": "vidyut-1.0.0.zip",
+          "archiveFileName": "vidyut-1.0.0.zip.zip",
           "checksum": "SHA-256:PLACE_YOUR_HASH_HERE",
           "size": "PLACE_FILE_SIZE_HERE",
           "boards": [
@@ -29,5 +29,6 @@
     }
   ]
 }
+
 
 
