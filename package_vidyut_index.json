@@ -1,0 +1,30 @@
+{
+  "packages": [
+    {
+      "name": "vidyut",
+      "maintainer": "Pranav BRO",
+      "websiteURL": "https://github.com/PranavPatil-BX/vidyut-avr",
+      "email": "support@vidyut.com",
+      "help": {
+        "online": "https://github.com/PranavPatil-BX/vidyut-avr/issues"
+      },
+      "platforms": [
+        {
+          "name": "Vidyut Processor Boards",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "Vidyut Boards",
+          "url": "https://github.com/PranavPatil-BX/vidyut-avr/releases/download/1.0.0/vidyut-1.0.0.zip",
+          "archiveFileName": "vidyut-1.0.0.zip",
+          "checksum": "SHA-256:1096ddac1f7af8fe732bb7298e69398862339489f110d6f332e32d9fdef23ebf",
+          "size": "2998",
+          "boards": [
+            { "name": "Vidyut Processor (ATmega328P)" }
+          ],
+          "toolsDependencies": []
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
