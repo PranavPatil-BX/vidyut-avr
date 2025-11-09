@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "Vidyut AVR Boards",
+          "name": "BharatXtronics Boards",
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Contributed",
@@ -29,3 +29,4 @@
     }
   ]
 }
+
