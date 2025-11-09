@@ -14,9 +14,9 @@
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/PranavPatil-BX/vidyut-avr/releases/download/1.0.0/vidyut-1.0.0.zip",
+          "url": "https://github.com/PranavPatil-BX/vidyut-avr/raw/main/vidyut-1.0.0.zip",
           "archiveFileName": "vidyut-1.0.0.zip",
-          "checksum": "SHA-256:PLACE_YOUR_HASH_HERE",
+          "checksum": "SHA-256:A1346D9E52D84BB05A27D36E8CBDDDDD019C6B13F4ECEAC3B37E290BE7BA1974",
           "size": "PLACE_FILE_SIZE_HERE",
           "boards": [
             { "name": "Vidyut IC v1" },
