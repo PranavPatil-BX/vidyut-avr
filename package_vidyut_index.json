@@ -19,8 +19,8 @@
           "checksum": "SHA-256:PLACE_YOUR_HASH_HERE",
           "size": "PLACE_FILE_SIZE_HERE",
           "boards": [
-            { "name": "Vidyut Uno" },
-            { "name": "Vidyut Nano" }
+            { "name": "Vidyut IC v1" },
+            { "name": "Vidyut" }
           ],
           "toolsDependencies": []
         }
@@ -29,4 +29,5 @@
     }
   ]
 }
+
 
